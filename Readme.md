@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Sergey Lyapin](https://up.htmlacademy.ru/adaptive/20/user/522427).
-* Наставник: `Неизвестно`.
+* Наставник: [Sergey Lyapin](https://up.htmlacademy.ru/adaptive/20/user/522427).
 
 ---
 
